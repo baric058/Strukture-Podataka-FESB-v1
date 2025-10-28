@@ -1,0 +1,11 @@
+﻿  Vjezbe2&3.c
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(67,31): warning C4098: 'main': 'void' function returning a value
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(81,36): warning C4098: 'main': 'void' function returning a value
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(86,36): warning C4098: 'main': 'void' function returning a value
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(95,36): warning C4098: 'main': 'void' function returning a value
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(101,36): warning C4098: 'main': 'void' function returning a value
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(125,2): warning C4098: 'main': 'void' function returning a value
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(135,39): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(138,42): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\Vjezbe 2&3\Vjezbe2&3.c(141,45): warning C4047: 'return': 'Position' differs in levels of indirection from 'int'
+  Vjezbe 2&3.vcxproj -> C:\Users\baric\Desktop\Strukture Podataka\Vjezbe 2&3\x64\Debug\Vjezbe 2&3.exe

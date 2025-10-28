@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A09E5D3-E759-4D51-B7A0-1F4918139423}|Project1\\Project1.vcxproj|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe1\\Project1\\Vjezba2\u00263.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{3A09E5D3-E759-4D51-B7A0-1F4918139423}|Project1\\Project1.vcxproj|solutionrelative:Project1\\Vjezba2\u00263.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vjezba2\u00263.c",
+              "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe1\\Project1\\Vjezba2\u00263.c",
+              "RelativeDocumentMoniker": "Project1\\Vjezba2\u00263.c",
+              "ToolTip": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe1\\Project1\\Vjezba2\u00263.c",
+              "RelativeToolTip": "Project1\\Vjezba2\u00263.c",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAIEBAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-10-21T11:45:10.003Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

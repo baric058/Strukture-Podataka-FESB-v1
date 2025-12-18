@@ -7,6 +7,9 @@
       "RelativeMoniker": "D:0:0:{62D74642-F87A-443B-AE05-7B468B37256B}|Vjezbe 5\\Vjezbe 5.vcxproj|solutionrelative:Vjezbe 5\\Vjezba5.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe 4\\Vjezbe 4\\Vjezba4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{62D74642-F87A-443B-AE05-7B468B37256B}|Vjezbe 5\\Vjezbe 5.vcxproj|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe 5\\Vjezbe 5\\Vjezba5.c||{3B902123-F8A7-4915-9F01-361F908088D0}",
       "RelativeMoniker": "D:0:0:{62D74642-F87A-443B-AE05-7B468B37256B}|Vjezbe 5\\Vjezbe 5.vcxproj|solutionrelative:Vjezbe 5\\Vjezba5.c||{3B902123-F8A7-4915-9F01-361F908088D0}"
     }
@@ -18,8 +21,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vjezba4.c",
+              "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe 4\\Vjezbe 4\\Vjezba4.c",
+              "RelativeDocumentMoniker": "..\\Vjezbe 4\\Vjezbe 4\\Vjezba4.c",
+              "ToolTip": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe 4\\Vjezbe 4\\Vjezba4.c",
+              "RelativeToolTip": "..\\Vjezbe 4\\Vjezbe 4\\Vjezba4.c",
+              "ViewState": "AgIAACsAAAAAAAAAAAAUwFgAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-12-11T16:06:44.71Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -35,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "Vjezba5.c",
               "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe 5\\Vjezbe 5\\Vjezba5.c",
               "RelativeDocumentMoniker": "Vjezbe 5\\Vjezba5.c",
@@ -43,8 +59,7 @@
               "RelativeToolTip": "Vjezbe 5\\Vjezba5.c",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAIUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-12-11T15:20:41.552Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-12-11T15:20:41.552Z"
             }
           ]
         }

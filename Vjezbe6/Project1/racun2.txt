@@ -1,0 +1,4 @@
+2025-11-18
+Kruh, 1, 2
+Marelica, 4, 1
+Cokolada, 1, 3

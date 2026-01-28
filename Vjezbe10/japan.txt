@@ -1,0 +1,5 @@
+Yokohama, 3732616
+Fukuoka, 1588924
+Kyoto, 1464890
+Tokyo, 9375104
+Hiroshima, 1199391

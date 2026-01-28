@@ -1,0 +1,5 @@
+Zadar, 70829
+Osijek, 96848
+Slavonski Brod, 50039
+Zagreb, 769944
+Split, 161312

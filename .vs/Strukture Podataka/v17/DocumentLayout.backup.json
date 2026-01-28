@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe10\\Vjezbe10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vjezbe10\\Vjezbe10.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe9\\Vjezba9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vjezbe9\\Vjezba9.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe8\\Vjezba8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vjezbe8\\Vjezba8.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe7\\Vjezbe7\\Vjezbe7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Vjezbe7\\Vjezbe7\\Vjezbe7.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Vjezbe7.c",
+              "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe7\\Vjezbe7\\Vjezbe7.c",
+              "RelativeDocumentMoniker": "Vjezbe7\\Vjezbe7\\Vjezbe7.c",
+              "ToolTip": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe7\\Vjezbe7\\Vjezbe7.c",
+              "RelativeToolTip": "Vjezbe7\\Vjezbe7\\Vjezbe7.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-15T17:33:26.115Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Vjezbe10.c",
+              "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe10\\Vjezbe10.c",
+              "RelativeDocumentMoniker": "Vjezbe10\\Vjezbe10.c",
+              "ToolTip": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe10\\Vjezbe10.c",
+              "RelativeToolTip": "Vjezbe10\\Vjezbe10.c",
+              "ViewState": "AgIAAPQAAAAAAAAAAAAUwP4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-15T10:59:07.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vjezba8.c",
+              "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe8\\Vjezba8.c",
+              "RelativeDocumentMoniker": "Vjezbe8\\Vjezba8.c",
+              "ToolTip": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe8\\Vjezba8.c",
+              "RelativeToolTip": "Vjezbe8\\Vjezba8.c",
+              "ViewState": "AgIAAJwAAAAAAAAAAAAAAMsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-15T10:50:09.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Vjezba9.c",
+              "DocumentMoniker": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe9\\Vjezba9.c",
+              "RelativeDocumentMoniker": "Vjezbe9\\Vjezba9.c",
+              "ToolTip": "C:\\Users\\baric\\Desktop\\Strukture Podataka\\Vjezbe9\\Vjezba9.c",
+              "RelativeToolTip": "Vjezbe9\\Vjezba9.c",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAUwFgAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2026-01-15T10:44:37.299Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
